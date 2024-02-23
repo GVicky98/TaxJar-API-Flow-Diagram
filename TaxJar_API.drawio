@@ -1,9 +1,66 @@
-<mxfile host="app.diagrams.net" modified="2024-02-23T05:35:42.296Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" version="23.1.5" etag="vPK8HezqnlQzMdx6wQwV" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-23T06:01:51.110Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="64SPK5UvlVDUvVVLr0cz" version="23.1.5" type="github">
   <diagram name="Page-1" id="NadXmR_Rzu5ZUkz38B06">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="hwT25L39pXumFMyLQRg2-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="120" y="70" width="190" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="hwT25L39pXumFMyLQRg2-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="480" y="70" width="190" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="hwT25L39pXumFMyLQRg2-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="hwT25L39pXumFMyLQRg2-2" target="hwT25L39pXumFMyLQRg2-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hwT25L39pXumFMyLQRg2-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="515" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hwT25L39pXumFMyLQRg2-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="515" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hwT25L39pXumFMyLQRg2-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hwT25L39pXumFMyLQRg2-5" target="hwT25L39pXumFMyLQRg2-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hwT25L39pXumFMyLQRg2-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="515" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hwT25L39pXumFMyLQRg2-9" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;span&gt;&lt;u&gt;ERPNext&lt;br&gt;&lt;/u&gt;&lt;/span&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="530" y="40" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hwT25L39pXumFMyLQRg2-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hwT25L39pXumFMyLQRg2-13" target="hwT25L39pXumFMyLQRg2-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hwT25L39pXumFMyLQRg2-13" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="155" y="180" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="hwT25L39pXumFMyLQRg2-14" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;span&gt;&lt;u&gt;Taxjar API&lt;br&gt;&lt;/u&gt;&lt;/span&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="165" y="40" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hwT25L39pXumFMyLQRg2-18" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Sales Tax and Charges Table&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="525" y="325" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hwT25L39pXumFMyLQRg2-19" value="&lt;b style=&quot;border-color: var(--border-color); font-size: 14px;&quot;&gt;Sales Tax Calculations&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="175" y="225" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hwT25L39pXumFMyLQRg2-20" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;TaxJar Settings&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="525" y="225" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hwT25L39pXumFMyLQRg2-21" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;SO Creation&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="530" y="125" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hwT25L39pXumFMyLQRg2-24" value="On Save" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="575" y="180" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hwT25L39pXumFMyLQRg2-26" value="Bearer Token" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="353" y="220" width="83" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hwT25L39pXumFMyLQRg2-27" value="Payload" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="357" y="240" width="75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hwT25L39pXumFMyLQRg2-29" value="Sales Tax Amount" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="341" y="320" width="107" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
